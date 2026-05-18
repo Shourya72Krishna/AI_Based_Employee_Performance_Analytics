@@ -2,8 +2,7 @@
 node_modules/
 
 # env files
-backend/.env
-frontend/.env
+.env
 
 # build files
 dist/
@@ -18,3 +17,4 @@ Thumbs.db
 # editor files
 .vscode/
 .idea/
+
